@@ -1,0 +1,15 @@
+{
+  "db": {
+    "name": "student_db",
+    "auth": false,
+    "username": "",
+    "password": "",
+    "host": "localhost",
+    "port": 27017,
+    "mongoose": {
+      "autoIndex": true,
+      "poolSize": 10,
+      "bufferMaxEntries": 0
+    }
+  }
+}

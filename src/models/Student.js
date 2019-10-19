@@ -7,7 +7,8 @@ const std = {
   registrationNumber: { type: Number },
   fatherName: { type: String },
   motherName: { type: String },
-  dob: { type: Date }
+  dob: { type: Date },
+  email: { type: String }
 };
 var StudentSchema = new Schema(std);
 
