@@ -34,7 +34,7 @@
     "core-js": "^3.2.1",
     "hapi-swagger": "^10.1.2",
     "ip": "^1.1.5",
-    "mongoose": "^5.7.4"
+    "mongoose": "^5.7.5"
   },
   "devDependencies": {
     "@babel/cli": "^7.6.2",
